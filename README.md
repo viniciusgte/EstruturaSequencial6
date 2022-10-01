@@ -1,4 +1,4 @@
-## Estrutura Sequencial 5
+## Estrutura Sequencial 6
 
 Programação de Soluções Computacionais
 
