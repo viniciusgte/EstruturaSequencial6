@@ -12,10 +12,8 @@ public class App {
 
         area = Math.PI * (Math.pow(raio,2));
 
-        System.out.print("Area do Circulo é: ");
-        System.out.print(area);
-
-
+        System.out.print("Area do Circulo é: " + area);
+        
         teclado.close();
 
     }
