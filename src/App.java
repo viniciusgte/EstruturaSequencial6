@@ -7,7 +7,7 @@ public class App {
 
         Scanner teclado = new Scanner(System.in);
 
-        System.out.print("Escreva abaixo o valor do raio: ");
+        System.out.print("Escreva ao lado o valor do raio: ");
         raio = teclado.nextDouble();
 
         area = Math.PI * (Math.pow(raio,2));
